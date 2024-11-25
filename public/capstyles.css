@@ -51,8 +51,12 @@ button:hover {
     background-color: #0056b3;
 }
 
-#response {
-    margin-top: 15px;
+.success {
     color: green;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
     font-weight: bold;
 }
